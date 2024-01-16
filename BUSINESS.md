@@ -2,7 +2,7 @@
 
 ## Overview
 
-TrueAbility operates a portfolio of SaaS applications that provide a range of products and services. This cybersecurity plan provides the broad principles and baseline procedures that all TrueAbility companies follow, and focuses on ensuring companies "do the right thing". Each company develops more detailed procedures and policies specfiic to their business model, which focus on "doing things right." While this plan is publicly available, specific company policies may not be released to the general public.
+TrueAbility operates a certification platform as a B2B2C SaaS application. This cybersecurity plan provides the broad principles and baseline procedures that all TrueAbility companies follow, and focuses on ensuring companies "do the right thing". Each company develops more detailed procedures and policies specfiic to their business model, which focus on "doing things right." While this plan is publicly available, specific company policies may not be released to the general public.
 
 ## Support
 
