@@ -87,7 +87,7 @@ CAIQ: DSI-05, EKM-02.
 
 ## Workstations
 
-Our standard issue workstation is OS/X flavored. We require developers to use the latest OS version, expedited when there are any urgent security alerts. Workstations must use FileVault to restrict the local hard drive. Devices must be configured so that they default to data being inaccessible when the device is unattended. Xenon owned workstations have endpoint protection installed and managed by a recognized security vendor.
+Our standard issue workstation is OS/X flavored. We require developers to use the latest OS version, expedited when there are any urgent security alerts. Workstations must use FileVault to restrict the local hard drive. Devices must be configured so that they default to data being inaccessible when the device is unattended. Company owned workstations have endpoint protection installed and managed by a recognized security vendor.
 
 CAIQ: CCC-04, HRS-10, HRS-11, IVS-12.
 
@@ -169,7 +169,7 @@ GDPR: Article 33.
 
 ## Onboarding
 
-Our teammates read and respond to this document during their onboarding. This document is linked to our onboarding checklist. This link will always point to the latest version of this document. If you have any feedback on this document, please send it to our support department email and it will be raised within our security team. Note that a [background check](#background_check) is required for all teammates prior to starting work with any Xenon company.
+Our teammates read and respond to this document during their onboarding. This document is linked to our onboarding checklist. This link will always point to the latest version of this document. If you have any feedback on this document, please send it to our support department email and it will be raised within our security team. Note that a [background check](#background_check) is required for all teammates prior to starting work with any company.
 
 CAIQ: HRS-03, HRS-09.
 
@@ -212,7 +212,7 @@ CAIQ: STA-01, STA-05, STA-06.
 
 ## Organizations
 
-Xenon maintains memberships in security organizations such as _InfraGard_ to rapidly share information with partners in law enforcement and the private sector. We monitor US CERT alerts and bulletins to ensure awareness of the latest vulnerabilities to assist our companies in maintaining secure products and services.
+Company maintains memberships in security organizations such as _InfraGard_ to rapidly share information with partners in law enforcement and the private sector. We monitor US CERT alerts and bulletins to ensure awareness of the latest vulnerabilities to assist our companies in maintaining secure products and services.
 
 ## Inapplicable
 

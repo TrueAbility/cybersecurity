@@ -1,10 +1,8 @@
-# Xenon Cybersecurity Plan
+# TrueAbility Cybersecurity Plan
 
-*Updated December 31, 2022.*
+*Updated January 15th, 2024.*
 
 ## Schedule
-
-**This document is no longer maintained or reviewed. Xenon PortCos may fork and update as desired.**
 
 Once per year, these activities will be performed:
  * Review this plan and [our practices](PRACTICES.md). (CAIQ: GRM-04, GRM-09)

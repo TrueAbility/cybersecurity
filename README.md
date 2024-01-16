@@ -18,7 +18,7 @@ A. Under attorney advice, *company policies* are litigated upon, while *company 
 
 A. Consensus Assessments Initiative Questionnaire (CAIQ) is a survey provided by the [Cloud Security Alliance](https://cloudsecurityalliance.org/) (CSA) for cloud consumers and auditors to assess the security capabilities of a cloud service provider. The CSA mission is "To promote the use of best practices for providing security assurance within Cloud Computing, and provide education on the uses of Cloud Computing to help secure all other forms of computing."
 
-The CAIQ is a vendor security review document ([download here](https://cloudsecurityalliance.org/working-groups/consensus-assessments/#_overview)) that SaaS companies in [Xenon Venture's portfolio](https://xenon.io) have received from their enterprise customers. This [Cybersecurity and Privacy Plan](PLAN.md) coupled with the [Practices Guide](PRACTICES.md) ensures the ability to respond to the CAIQ in its current version (v.3.0.1). The CAIQ has another benefit--it is cross-linked to many other security frameworks and regulation including HIPAA, FERPA, NIST, and PCI.
+The CAIQ is a vendor security review document ([download here](https://cloudsecurityalliance.org/working-groups/consensus-assessments/#_overview)) that SaaS companies in [TrueAbility](https://TrueAbility.com) have received from their enterprise customers. This [Cybersecurity and Privacy Plan](PLAN.md) coupled with the [Practices Guide](PRACTICES.md) ensures the ability to respond to the CAIQ in its current version (v.3.0.1). The CAIQ has another benefit--it is cross-linked to many other security frameworks and regulation including HIPAA, FERPA, NIST, and PCI.
 
 ## Q. What common regulation are customers looking for compliance?
 
@@ -56,5 +56,5 @@ When making updates, run ```./utils/add_links``` to add links to GDPR cross-refe
 
 # License
 
-Copyright Jonathan Siegel, 2018-2022. Please contact cyber@xenon.io if you would like to re-use or contribute to this plan.
+Copyright TrueAbility, 2018-2024. Please contact cyber@TrueAbility.com if you would like to re-use or contribute to this plan.
 
