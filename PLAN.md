@@ -103,9 +103,9 @@ We routinely make data public (e.g. for community-targetted reports about system
 
 ## Our Infrastructure
 
-We use cloud hosting providers and inherit their physical security, business continuity, disaster recovery and network intrusion protection. We default to using private networks, end-to-end encryption, encryption at rest, automated scaling and high availability storage. We further enable auditing and logging.  See more details in our [practices](PRACTICES.md#infrastructure). 
+We use Tier IV hosting providers and inherit their physical security, business continuity, disaster recovery and network intrusion protection. We default to using private networks, end-to-end encryption, encryption at rest, automated scaling and high availability storage. We further enable auditing and logging.  See more details in our [practices](PRACTICES.md#infrastructure). 
 
-We inherit the datacenter security of our cloud providers. We encourage your review [our infrastructure vendors](PRACTICES.md#vendors) to ensure their policies meet your needs.
+We inherit the datacenter security of our providers. We encourage your review [our infrastructure vendors](PRACTICES.md#vendors) to ensure their policies meet your needs.
 
 CAIQ: DCS-01 through DSC-09.
 GDPR: Article 25.
@@ -120,7 +120,7 @@ CAIQ: BCR-01
 
 ## Disaster Recovery
 
-Our core infrastructure is designed to withstand datacenter outages and remain online in full service using best practices for cloud deployments. Our system data is stored on further resilient cloud services with high reliability. See more in our [reliability practices](PRACTICES.md#reliability).
+Our core infrastructure is designed to withstand datacenter outages and remain online in full service using best practices for deployments. Our system data is stored on further resilient services with high reliability. See more in our [reliability practices](PRACTICES.md#reliability).
 
 But, we recognize that our services augment our customer development practices and are not critical to immediate customer operations. This takes a lower priority to data privacy and security.
 
@@ -180,7 +180,7 @@ We use username/password and [2FA authentication](PRACTICES.md#2FA).
 
 ## Production Data
 
-Production data is stored on cloud databases. Any external copies must be stored encrypted. We do not use production data for staging or on development workstations.
+Production data is stored on resilient databases. Any external copies must be stored encrypted. We do not use production data for staging or on development workstations.
 
 CAIQ: DSI-05.
 
